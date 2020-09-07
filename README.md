@@ -1,5 +1,9 @@
 <h3 align="center"> GZTime / T崮郅T</h3>
 
+<div style="text-align:center;width:100%">
+  <img src="https://avatars2.githubusercontent.com/u/28180262?s=120"></img>
+</div>
+
 <p align="center">
   <a href="https://blog.gztime.cc/">blog</a> •
   <a href="https://space.bilibili.com/14793124">bilibili</a> •
