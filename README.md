@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on my plans!
+<h3 align="center"> GZTime / T崮郅T</h3>
 
 <p align="center">
   <a href="https://blog.gztime.cc/">blog</a> •
@@ -7,7 +6,7 @@
   <a href="https://github.com/manim-kindergarten">org</a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html,css&count_private=true)](https://github.com/GZTimeWalker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true)](https://github.com/GZTimeWalker)
 [![GZTime's stats](https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27)](https://github.com/GZTimeWalker)
 
 <!--
