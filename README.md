@@ -1,7 +1,5 @@
 <h3 align="center"> GZTime / T崮郅T</h3>
 
-<br/>
-
 <h4 align="center">Walking on the Time Axis.</h4>
 <h4 align="center">行走在时间轴上，我们不惧风雨，无问西东。</h4>
 
