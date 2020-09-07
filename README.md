@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my plans!
+
+<p align="center">
+  <a href="https://blog.gztime.cc/">blog</a> •
+  <a href="https://space.bilibili.com/14793124">bilibili</a> •
+  <a href="https://github.com/manim-kindergarten">org</a>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html,css&count_private=true)](https://github.com/GZTimeWalker)
+[![GZTime's stats](https://github-readme-stats.vercel.app/api?username=GZTimeWalker8&show_icons=true&count_private=true&line_height=27)](https://github.com/GZTimeWalker)
 
 <!--
 **GZTimeWalker/GZTimeWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
