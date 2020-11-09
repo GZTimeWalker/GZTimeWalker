@@ -80,3 +80,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+    Acknowledgement:
+        https://github.com/NachtgeistW/NachtgeistW
+        https://github.com/matchai/waka-box
+        https://github.com/athul/waka-readme
+        https://github.com/anuraghazra/github-readme-stats
+        https://github.com/MetLee
+-->
