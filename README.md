@@ -3,26 +3,6 @@
 <p align="left">
 <ul>
     <li>💬 Languages: zh-cn, en.</li>
-    <li>📝 Programming languages:
-        <a href="https://www.python.org/">
-            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
-        </a>
-        <a href="about:blank">
-            <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white" />
-        </a>
-        <a href="https://isocpp.org/">
-            <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
-        </a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-            <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white" />
-        </a>
-        <a href="https://java.com/">
-            <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" />
-        </a>
-        <a href="https://www.php.net/">
-            <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
-        </a>
-    </li>
     <li>💻 Code editors / IDEs:
         <a href="https://code.visualstudio.com/">
             <img
