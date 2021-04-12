@@ -40,7 +40,7 @@
 </h5>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact">
 </p>
 <br/>
 <p align="center">
