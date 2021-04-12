@@ -6,27 +6,27 @@
     <li>💻 Code editors / IDEs:
         <a href="https://code.visualstudio.com/">
             <img
-                src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
+                src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
         </a>
         <a href="https://visualstudio.microsoft.com/vs/">
             <img
-                src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white" />
+                src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white" />
         </a>
     </li>
     <li>💻 Platforms:
         <a href="https://www.microsoft.com/windows/">
-            <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=Windows&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
         </a>
         <a href="https://www.apple.com/ipados/">
-            <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=for-the-badge&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.android.com/">
-            <img src="https://img.shields.io/badge/-Android%2011-3DDC84?style=flat&logo=Android&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Android%2011-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
         </a>
     </li>
     <li>📞 Contact:
         <a href="https://t.me/GZ_Time">
-            <img src="https://img.shields.io/badge/-GZTime-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+            <img src="https://img.shields.io/badge/-GZTime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
     </li>
 </ul>
@@ -40,32 +40,10 @@
 </h5>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true">
 </p>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27&theme=gruvbox&show_icons=true">
 </p>
-<!--
-**GZTimeWalker/GZTimeWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-    Acknowledgement:
-        https://github.com/NachtgeistW/NachtgeistW
-        https://github.com/matchai/waka-box
-        https://github.com/athul/waka-readme
-        https://github.com/anuraghazra/github-readme-stats
-        https://github.com/MetLee
--->
