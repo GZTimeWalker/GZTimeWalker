@@ -1,4 +1,4 @@
-<h3 align="center"> GZTime / T崮郅T</h3>
+<h3 align="center"> GZTime </h3>
 
 <p align="left">
 <ul>
@@ -36,7 +36,7 @@
 <h5 align="center">
   <a href="https://blog.gztime.cc/">BLOG</a> •
   <a href="https://space.bilibili.com/14793124">BILIBILI</a> •
-  <a href="https://github.com/manim-kindergarten">ORG</a>
+  <a href="https://github.com/manim-kindergarten">MANIM</a>
 </h5>
 
 <p align="center">
