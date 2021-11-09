@@ -6,27 +6,16 @@
     <li>💻 Code editors / IDEs:
         <a href="https://code.visualstudio.com/">
             <img
-                src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+                src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white" />
         </a>
         <a href="https://visualstudio.microsoft.com/vs/">
             <img
-                src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white" />
-        </a>
-    </li>
-    <li>💻 Platforms:
-        <a href="https://www.microsoft.com/windows/">
-            <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-        </a>
-        <a href="https://www.apple.com/ipados/">
-            <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=for-the-badge&logo=Apple&logoColor=white" />
-        </a>
-        <a href="https://www.android.com/">
-            <img src="https://img.shields.io/badge/-Android%2011-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
+                src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual-Studio&logoColor=white" />
         </a>
     </li>
     <li>📞 Contact:
         <a href="https://t.me/GZ_Time">
-            <img src="https://img.shields.io/badge/-GZTime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+            <img src="https://img.shields.io/badge/-GZTime-2CA5E0?logo=telegram&logoColor=white" />
         </a>
     </li>
 </ul>
