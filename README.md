@@ -23,16 +23,19 @@
 <h4 align="center">Walking on the Time Axis.</h4>
 
 <h5 align="center">
-  <a href="https://blog.gztime.cc/">BLOG</a> •
-  <a href="https://space.bilibili.com/14793124">BILIBILI</a> •
+  <a href="https://t.me/GZ_Time">TELEGRAM</a>&emsp;•&emsp;
+  <a href="https://blog.gztime.cc/">BLOG</a>&emsp;•&emsp;
+  <a href="https://space.bilibili.com/14793124">BILIBILI</a>&emsp;•&emsp;
   <a href="https://github.com/manim-kindergarten">MANIM</a>
 </h5>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact">
-</p>
-<br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27&theme=gruvbox&show_icons=true">
-</p>
-
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/GZTimeWalker">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact&langs_count=8" />
+    </a></th>
+    <th><a href="https://github.com/GZTimeWalker">
+      <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27&theme=gruvbox&show_icons=true" />
+    </a></th>
+  </tr>
+</table>
