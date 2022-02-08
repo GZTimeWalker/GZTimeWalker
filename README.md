@@ -32,7 +32,7 @@
 <table style="width:100%">
   <tr>
     <th><a href="https://github.com/GZTimeWalker">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&hide=html&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact&langs_count=10" />
     </a></th>
     <th><a href="https://github.com/GZTimeWalker">
       <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27&theme=gruvbox&show_icons=true" />
