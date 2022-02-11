@@ -30,6 +30,7 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: lines, percentage
           plugin_languages_indepth: yes
+          plugin_languages_aliases: '"Jupyter Notebook":"Ipynb"'
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
