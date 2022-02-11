@@ -26,8 +26,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 500
           plugin_languages_threshold: 0%
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
@@ -35,11 +35,12 @@ jobs:
           plugin_languages_indepth: no
           plugin_rss: yes
           plugin_rss_source: https://blog.gztime.cc/atom.xml
-          plugin_rss_limit: 4
+          plugin_rss_limit: 3
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_order: base.header, base.activity, base.community, languages, habits, rss
+          config_padding: 5
+          config_order: base.header, base.activity+community, languages, habits, rss
 
       - name: right
         uses: lowlighter/metrics@latest
@@ -54,4 +55,5 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_limit: 15
+          plugin_achievements_limit: 14
+          config_padding: 5
