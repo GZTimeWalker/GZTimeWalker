@@ -44,11 +44,11 @@
   </tr>
 </table> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="#">
     <img width="400" align="top" src="https://github.com/GZTimeWalker/GZTimeWalker/blob/master/metrics.top.svg" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="#">
