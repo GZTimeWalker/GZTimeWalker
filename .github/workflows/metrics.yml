@@ -36,7 +36,7 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://blog.gztime.cc/atom.xml
           plugin_rss_limit: 4
-          config_order: languages, rss
+          config_order: base, languages, rss
 
       - name: right
         uses: lowlighter/metrics@latest

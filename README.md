@@ -1,9 +1,5 @@
 <h3 align="center"> GZTime </h3>
 
-<p align="center">
-
-</p>
-
 <p align="left">
 <ul>
     <li>💬 Languages: zh-cn, en.</li>
