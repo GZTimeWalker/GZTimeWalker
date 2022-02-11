@@ -29,7 +29,6 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 500
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
@@ -52,6 +51,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_threshold: B
+          plugin_achievements_limit: 6
           plugin_rss: yes
           plugin_rss_source: https://blog.gztime.cc/atom.xml
           plugin_rss_limit: 4
