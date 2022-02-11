@@ -16,7 +16,8 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.left.svg
+          output_action: gist
+          committer_gist: 7b91e5c1e018c9e35d38669d2fbd6e97
 
           # Options
           user: GZTimeWalker
@@ -42,7 +43,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.right.svg
+          output_action: gist
+          committer_gist: b688af797a7cf82ab466dacd7bc10d0d
 
           # Options
           user: GZTimeWalker

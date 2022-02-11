@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="#">
-    <img width="400" align="top" src="https://github.com/GZTimeWalker/GZTimeWalker/blob/master/metrics.left.svg" />
+    <img width="400" align="top" src="https://gist.github.com/GZTimeWalker/7b91e5c1e018c9e35d38669d2fbd6e97?short_path=dc1ced5" />
   </a>
   &emsp;
   <a href="#">
-    <img width="400" align="top" src="https://github.com/GZTimeWalker/GZTimeWalker/blob/master/metrics.right.svg" />
+    <img width="400" align="top" src="https://gist.github.com/GZTimeWalker/b688af797a7cf82ab466dacd7bc10d0d?short_path=0f9eb25" />
   </a>
 </p>
