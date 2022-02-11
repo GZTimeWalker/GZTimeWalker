@@ -39,7 +39,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_padding: 5
+          config_padding: 0, 8 + 11%
           config_order: base.header, base.activity+community, languages, habits, rss
 
       - name: right
@@ -56,4 +56,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_limit: 14
-          config_padding: 5
+          config_padding: 0, 8 + 11%
