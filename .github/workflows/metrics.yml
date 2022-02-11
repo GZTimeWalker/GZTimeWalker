@@ -33,14 +33,11 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
-          plugin_rss: yes
-          plugin_rss_source: https://blog.gztime.cc/atom.xml
-          plugin_rss_limit: 3
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages, habits, rss
+          config_order: base.header, base.activity+community, languages, habits
 
       - name: right
         uses: lowlighter/metrics@latest
@@ -54,6 +51,9 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 14
+          plugin_achievements_threshold: B
+          plugin_rss: yes
+          plugin_rss_source: https://blog.gztime.cc/atom.xml
+          plugin_rss_limit: 4
           config_padding: 0, 8 + 11%
+          config_order: achievements, rss
