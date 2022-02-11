@@ -47,7 +47,7 @@ jobs:
           filename: metrics.right.svg
 
           # Options
-          user: TonyCrane
+          user: GZTimeWalker
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
