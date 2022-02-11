@@ -1,0 +1,57 @@
+name: Metrics
+
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: left
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.left.svg
+
+          # Options
+          user: GZTimeWalker
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_threshold: 0%
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: no
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: mastered
+          config_order: followup, languages, topics
+
+      - name: right
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.right.svg
+
+          # Options
+          user: TonyCrane
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: B
+

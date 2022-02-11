@@ -1,5 +1,9 @@
 <h3 align="center"> GZTime </h3>
 
+<p align="center">
+
+</p>
+
 <p align="left">
 <ul>
     <li>💬 Languages: zh-cn, en.</li>
@@ -29,7 +33,7 @@
   <a href="https://github.com/manim-kindergarten">MANIM</a>
 </h5>
 
-<table style="width:100%">
+<!-- <table style="width:100%">
   <tr>
     <th><a href="https://github.com/GZTimeWalker">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZTimeWalker&count_private=true&theme=gruvbox&show_icons=true&show_icons=true&layout=compact&langs_count=10" />
@@ -38,4 +42,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=GZTimeWalker&show_icons=true&count_private=true&line_height=27&theme=gruvbox&show_icons=true" />
     </a></th>
   </tr>
-</table>
+</table> -->
+
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="https://github.com/GZTimeWalker/GZTimeWalker/blob/master/metrics.left.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="https://github.com/GZTimeWalker/GZTimeWalker/blob/master/metrics.right.svg" />
+  </a>
+</p>
