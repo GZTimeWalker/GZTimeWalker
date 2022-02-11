@@ -21,7 +21,7 @@ jobs:
           # Options
           user: GZTimeWalker
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_colors: github
@@ -36,7 +36,10 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://blog.gztime.cc/atom.xml
           plugin_rss_limit: 4
-          config_order: base, languages, rss
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_order: base.header, base.activity, base.community, languages, habits, rss
 
       - name: right
         uses: lowlighter/metrics@latest
