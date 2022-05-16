@@ -69,7 +69,7 @@ jobs:
           outputs: github-snake.svg
             
       - name: Deploy snake to Gist
-        uses: exuanbo/actions-deploy-gist@latest
+        uses: exuanbo/actions-deploy-gist@v1.1.2
         with:
           # Set personal access token for updating gist.
           token: ${{ secrets.METRICS_TOKEN }}
