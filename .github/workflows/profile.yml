@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  github-metrics:
+  generate_profile:
     runs-on: ubuntu-latest
     steps:
       - name: left
@@ -63,19 +63,23 @@ jobs:
       - name: snake
         uses: Platane/snk@v2
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-snake.svg
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
             
-      - name: Deploy snake to Gist
+      - name: depoly snake to gist
         uses: exuanbo/actions-deploy-gist@v1.1.2
         with:
-          # Set personal access token for updating gist.
           token: ${{ secrets.METRICS_TOKEN }}
-          # Set id of the gist to be updated.
           gist_id: 62c190858bed9a108ce5811f715d2e55
-          # Set file name in the gist.
           gist_file_name: github-snake.svg
-          # Set path of the file to be deployed.
           file_path: github-snake.svg
+
+      - name: depoly dark snake to gist
+        uses: exuanbo/actions-deploy-gist@v1.1.2
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          gist_id: 62c190858bed9a108ce5811f715d2e55
+          gist_file_name: github-snake-dark.svg
+          file_path: github-snake-dark.svg
