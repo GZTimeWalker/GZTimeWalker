@@ -40,7 +40,7 @@ jobs:
           config_order: base.header, base.activity+community, languages, habits
 
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: TonyCrane/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
