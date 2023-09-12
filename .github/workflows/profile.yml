@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
           config_order: base.header, base.activity+community, languages, habits
 
       - name: right
-        uses: TonyCrane/metrics@master
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
