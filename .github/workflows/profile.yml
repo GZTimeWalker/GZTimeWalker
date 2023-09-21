@@ -68,7 +68,7 @@ jobs:
             github-snake.svg?palette=github-light
             github-snake-dark.svg?palette=github-dark
             
-      - name: depoly snake to gist
+      - name: deploy snake to gist
         uses: exuanbo/actions-deploy-gist@v1.1.4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -76,7 +76,7 @@ jobs:
           gist_file_name: github-snake.svg
           file_path: github-snake.svg
 
-      - name: depoly dark snake to gist
+      - name: deploy dark snake to gist
         uses: exuanbo/actions-deploy-gist@v1.1.4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
