@@ -67,6 +67,8 @@ jobs:
           outputs: |
             github-snake.svg?palette=github-light
             github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             
       - name: deploy snake to gist
         uses: exuanbo/actions-deploy-gist@v1.1.4
