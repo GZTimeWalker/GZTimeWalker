@@ -36,9 +36,12 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+          plugin_rss: yes
+          plugin_rss_source: https://blog.gzti.me/atom.xml
+          plugin_rss_limit: 4
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages, habits
-
+          config_order: base.header, base.activity+community, languages, habits, rss
+          
       - name: right
         uses: lowlighter/metrics@master
         with:
@@ -54,11 +57,11 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_limit: 6
-          plugin_rss: yes
-          plugin_rss_source: https://blog.gzti.me/atom.xml
-          plugin_rss_limit: 4
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           config_padding: 0, 8 + 11%
-          config_order: achievements, rss
+          config_order: achievements, wakatime
   
       - name: snake
         uses: Platane/snk@v3
