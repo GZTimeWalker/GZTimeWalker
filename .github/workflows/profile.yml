@@ -56,7 +56,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_achievements_limit: 6
+          plugin_achievements_limit: 8
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
