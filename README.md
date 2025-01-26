@@ -1,4 +1,4 @@
-<h2 align="center"> GZTime </h2>
+<h2 align="center">GZTime</h2>
 
 <h4 align="center">Walking on the Time Axis.</h4>
 
@@ -13,4 +13,5 @@
 </p>
 
 ![GitHub Snake Light](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake Dark](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake-dark.svg#gh-dark-mode-only)
