@@ -2,6 +2,8 @@
 
 <h4 align="center">Walking on the Time Axis.</h4>
 
+<p align="center">Rust / C# / Python / TS</p>
+
 <p align="center">
   <a href="#">
     <img width="400" align="top" src="https://gist.githubusercontent.com/GZTimeWalker/7b91e5c1e018c9e35d38669d2fbd6e97/raw/github-metrics.svg" />
